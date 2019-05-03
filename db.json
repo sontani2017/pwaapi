@@ -19,16 +19,6 @@
 {"id":17,"name":"Bushpig","catagory":"Teal"},
 {"id":18,"name":"Gull, lava","catagory":"Green"},
 {"id":19,"name":"Sportive lemur","catagory":"Crimson"},
-{"id":20,"name":"Gila monster","catagory":"Red"},
-{"id":21,"name":"Lion, african","catagory":"Aquamarine"},
-{"id":22,"name":"Horned rattlesnake","catagory":"Purple"},
-{"id":23,"name":"Eastern grey kangaroo","catagory":"Pink"},
-{"id":24,"name":"Starling, red-shouldered glossy","catagory":"Puce"},
-{"id":25,"name":"Cow, scottish highland","catagory":"Teal"},
-{"id":26,"name":"Fox, arctic","catagory":"Maroon"},
-{"id":27,"name":"Skua, long-tailed","catagory":"Red"},
-{"id":28,"name":"Butterfly (unidentified)","catagory":"Khaki"},
-{"id":29,"name":"Bee-eater, white-fronted","catagory":"Turquoise"},
-{"id":30,"name":"Green heron","catagory":"Blue"}
+{"id":20,"name":"Gila monster","catagory":"Red"}
 ]
 }
