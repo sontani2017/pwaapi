@@ -1,0 +1,29 @@
+{
+"products" : [
+{"id":1,"name":"White-throated kingfisher","catagory":"Goldenrod"},
+{"id":2,"name":"Elephant, asian","catagory":"Purple"},
+{"id":3,"name":"Paca","catagory":"Blue"},
+{"id":4,"name":"Crane, sandhill","catagory":"Fuscia"},
+{"id":5,"name":"Frog (unidentified)","catagory":"Orange"},
+{"id":6,"name":"Turkey vulture","catagory":"Blue"},
+{"id":7,"name":"Kudu, greater","catagory":"Violet"},
+{"id":8,"name":"Blue and gold macaw","catagory":"Purple"},
+{"id":9,"name":"Tortoise, desert","catagory":"Puce"},
+{"id":10,"name":"Frilled dragon","catagory":"Red"},
+{"id":11,"name":"Grey mouse lemur","catagory":"Maroon"},
+{"id":12,"name":"Albatross, waved","catagory":"Mauv"},
+{"id":13,"name":"Wallaby, whip-tailed","catagory":"Yellow"},
+{"id":14,"name":"Malachite kingfisher","catagory":"Aquamarine"},
+{"id":15,"name":"Western pygmy possum","catagory":"Purple"},
+{"id":16,"name":"Squirrel, nelson ground","catagory":"Violet"},
+{"id":17,"name":"Weaver, chestnut","catagory":"Fuscia"},
+{"id":18,"name":"Vulture, oriental white-backed","catagory":"Purple"},
+{"id":19,"name":"Pied kingfisher","catagory":"Khaki"},
+{"id":20,"name":"Ibex","catagory":"Aquamarine"},
+{"id":21,"name":"Dark-winged trumpeter","catagory":"Violet"},
+{"id":22,"name":"Lory, rainbow","catagory":"Khaki"},
+{"id":23,"name":"Asian false vampire bat","catagory":"Yellow"},
+{"id":24,"name":"Groundhog","catagory":"Aquamarine"},
+{"id":25,"name":"Tammar wallaby","catagory":"Green"}
+]
+}
