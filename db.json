@@ -29,26 +29,6 @@
 {"id":27,"name":"Skua, long-tailed","catagory":"Red"},
 {"id":28,"name":"Butterfly (unidentified)","catagory":"Khaki"},
 {"id":29,"name":"Bee-eater, white-fronted","catagory":"Turquoise"},
-{"id":30,"name":"Green heron","catagory":"Blue"},
-{"id":31,"name":"Jungle kangaroo","catagory":"Blue"},
-{"id":32,"name":"Otter, brazilian","catagory":"Teal"},
-{"id":33,"name":"Desert spiny lizard","catagory":"Violet"},
-{"id":34,"name":"Civet, common palm","catagory":"Red"},
-{"id":35,"name":"Pelican, australian","catagory":"Mauv"},
-{"id":36,"name":"Goose, greylag","catagory":"Purple"},
-{"id":37,"name":"Buffalo, american","catagory":"Khaki"},
-{"id":38,"name":"Butterfly, canadian tiger swallowtail","catagory":"Crimson"},
-{"id":39,"name":"American bison","catagory":"Aquamarine"},
-{"id":40,"name":"Marten, american","catagory":"Turquoise"},
-{"id":41,"name":"Green-winged trumpeter","catagory":"Green"},
-{"id":42,"name":"Serval","catagory":"Teal"},
-{"id":43,"name":"Asiatic jackal","catagory":"Green"},
-{"id":44,"name":"Masked booby","catagory":"Maroon"},
-{"id":45,"name":"Gray duiker","catagory":"Maroon"},
-{"id":46,"name":"Dusky rattlesnake","catagory":"Aquamarine"},
-{"id":47,"name":"Common melba finch","catagory":"Puce"},
-{"id":48,"name":"Boa, emerald green tree","catagory":"Crimson"},
-{"id":49,"name":"Sable antelope","catagory":"Violet"},
-{"id":50,"name":"Red-legged pademelon","catagory":"Blue"}
+{"id":30,"name":"Green heron","catagory":"Blue"}
 ]
 }
